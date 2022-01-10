@@ -129,7 +129,7 @@ body{
 	}
     }
 }
-ul{
+.Nav{
   list-style-type: none;
   width: 100%;
   overflow: hidden;
