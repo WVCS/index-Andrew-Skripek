@@ -31,7 +31,7 @@ li {
   font-size: 25px;
   font-family: 'Shadows Into Light';
 }
-ul {
+.list {
   text-align: center;
   list-style: inside;
   list-style-type: circle;
