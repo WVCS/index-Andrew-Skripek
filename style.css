@@ -54,6 +54,11 @@ tr:nth-child(even) {background-color:pink;}
 tr:nth-child(even):hover {background-color: white;}
 
 
+<head>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="DIRECTlink.pictureFILE">
+  <title> TAB TITLE </title>
+</head>
 
 
 
