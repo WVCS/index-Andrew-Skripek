@@ -50,6 +50,30 @@ table {
 tr:hover {
  background-color: white; 
 }
+.Nav {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  background-color: greenyellow;
+  padding: 10px 760px;
+  top: 0;
+  margin: 0;
+  left: 0;
+  font-family: 'Shadows Into Light';
+  font-size: 25px;
+}
+li a{
+  display: block;
+  float: left;
+  padding: 15px;
+  color: magenta;
+  
+}
+li a:hover{
+  background-color: yellow;
+  color: #ff5252;
+}
 
 tr:nth-child(even) {background-color:pink;}
 tr:nth-child(even):hover {background-color: white;}
